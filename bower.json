@@ -1,0 +1,23 @@
+{
+  "name": "usemin",
+  "version": "0.0.0",
+  "authors": [
+    "James Grubb <james@jamesgrubb.co.uk>"
+  ],
+  "description": "minifying stuff",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "picturefill": "~2.3.1"
+  }
+}

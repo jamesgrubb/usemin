@@ -1,0 +1,11 @@
+default:
+    - 'injector'
+    - 'copy:task'
+    - 'useminPrepare'
+    - 'concat'
+    - 'cssmin'
+    - 'uglify'
+    - 'usemin'
+
+
+
